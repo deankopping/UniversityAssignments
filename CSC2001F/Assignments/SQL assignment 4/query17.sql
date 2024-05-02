@@ -1,0 +1,1 @@
+select contactFirstName,contactLastName, round(sum(amount),2) as total from (select customers.customerNumber,contactFirstName,contactLastName, amount,salesRepEmployeeNumber from payments,customers where customers.customerNumber = payments.customerNumber) AS A group by customerNumber  ;

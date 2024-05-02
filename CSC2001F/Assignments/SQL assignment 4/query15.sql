@@ -1,0 +1,1 @@
+SELECT email from (SELECT email,employeeNumber, jobTitle, count(salesRepEmployeeNumber) as tot from employees, customers where employeeNumber = salesRepEmployeeNumber group by email) as A where tot > 5;

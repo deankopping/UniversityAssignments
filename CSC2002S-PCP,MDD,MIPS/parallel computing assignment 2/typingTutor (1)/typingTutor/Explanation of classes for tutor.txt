@@ -1,0 +1,23 @@
+I have created a seperate HungryWordMover class. This class operates in the same manner as the original word mover class but moves the words across 
+the screen rather then moving then from top to bottom. The class calls the thread.sleep() method with a random millisecond value in order to have the hungry
+words move across the screen at random intervals.
+
+In the class i have attempted to inplement code to constantly check for intersections with falling words, if the hungry word gets in the vecinity it resets 
+the falling word.
+
+Other classes:
+
+HungryWord: I created this class because the hungry word needs to have its y and x values opposite to those of the falling word. The resetWord() method 
+needs to put the word back to the left of the screen and not the top. Using a seperate class avoids more complex code by trying to create the whole application
+using just one word class.
+
+CatchHungryWord: I created a class specific to catching hungry words as it was neccessary after creating a seperate HungryWord class. This class is also slightly 
+different to the CatchWord class as it does not need to account for catching the lower duplicate word.
+
+Modifications:
+
+In order to ensure that the lowest duplicate word gets reset, I cereated a for loop in the CatchWord class which iterates if the entered word matches a word on the 
+screen. The loop contains an if statement which compares all the y values of the duplicate words and finds the lowest one which it then resets.
+
+I unfortunately was unable to make the game work with only one hungry word so i left it with many.
+

@@ -1,0 +1,1 @@
+SELECT city, phone FROM offices WHERE city LIKE "London" or city LIKE "Paris";

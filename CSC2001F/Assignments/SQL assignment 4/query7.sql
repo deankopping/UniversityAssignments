@@ -1,0 +1,1 @@
+SELECT count(phone) as numCalls FROM customers;

@@ -1,0 +1,57 @@
+commit b8a27841c8e268f501ef37bf8c3ef6ca1d8e048a
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Sun Aug 14 11:40:47 2022 +0200
+
+    All programs working perfectly
+
+commit 774715e3a1651b74258a21dc618e92721b18e72c
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Sat Aug 13 18:22:23 2022 +0200
+
+    Command line input implemented for Parallel
+    Median
+    Parallel mean
+    mean
+    Median
+
+commit 2c6343e36e87f8cc1908555fe31b90e030c2e8e1
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Sat Aug 13 18:20:29 2022 +0200
+
+    Command line input implemented for Parallel
+
+commit 71614082c7328a5e065b9977888e33ad01b9f827
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Sat Aug 13 17:26:57 2022 +0200
+
+    Parallel version of median filter works
+
+commit b3e2e106fe239c5e62a711370a523e92505ab65c
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Fri Aug 12 20:42:48 2022 +0200
+
+    median filter sequential program works perfectly
+
+commit e6abcda9aeab87d8a03d4a59582153d5e0fadeb0
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Fri Aug 12 15:18:46 2022 +0200
+
+    program finished but small bug
+
+commit 0f7d6a9e539cb35a01ab04261a876b1dec423415
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Fri Aug 12 13:59:19 2022 +0200
+
+    Program loops through each individual pixel
+
+commit ab21955293f2476c4e5053f31c213a45ca7a01fb
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Sat Aug 6 17:50:39 2022 +0200
+
+    Reading in image as well as width works, get pixel method created
+
+commit c5e2e3b99a46f8b6e3c3417b51f40646f2bc19a4
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Sat Aug 6 17:05:35 2022 +0200
+
+    Created all classes

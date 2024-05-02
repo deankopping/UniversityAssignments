@@ -1,0 +1,1 @@
+select sum(priceEach*quantityOrdered) as totalCost from (select quantityOrdered, priceEach, customerNumber from orderdetails, orders where orderdetails.orderNumber = orders.orderNumber) as A where customerNumber = 121;

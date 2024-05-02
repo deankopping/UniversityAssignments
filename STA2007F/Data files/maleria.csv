@@ -1,0 +1,122 @@
+,treat,mos.count,group
+1,control,9,1
+2,control,12,1
+3,control,8,1
+4,control,7,1
+5,control,9,1
+6,control,9,1
+7,control,10,1
+8,control,6,1
+9,control,12,1
+10,control,5,1
+11,control,15,1
+12,sulcatone,17,2
+13,sulcatone,10,2
+14,sulcatone,6,2
+15,sulcatone,8,2
+16,sulcatone,18,2
+17,sulcatone,14,2
+18,sulcatone,12,2
+19,sulcatone,7,2
+20,sulcatone,15,2
+21,sulcatone,10,2
+22,sulcatone,11,2
+23,nonanal,11,2
+24,nonanal,10,2
+25,nonanal,12,2
+26,nonanal,9,2
+27,nonanal,6,2
+28,nonanal,10,2
+29,nonanal,8,2
+30,nonanal,12,2
+31,nonanal,10,2
+32,nonanal,10,2
+33,nonanal,14,2
+34,limonene,7,2
+35,limonene,8,2
+36,limonene,11,2
+37,limonene,8,2
+38,limonene,6,2
+39,limonene,7,2
+40,limonene,7,2
+41,limonene,7,2
+42,limonene,5,2
+43,limonene,4,2
+44,limonene,3,2
+45,isobutyl butyrate,2,3
+46,isobutyl butyrate,7,3
+47,isobutyl butyrate,7,3
+48,isobutyl butyrate,3,3
+49,isobutyl butyrate,4,3
+50,isobutyl butyrate,2,3
+51,isobutyl butyrate,1,3
+52,isobutyl butyrate,4,3
+53,isobutyl butyrate,5,3
+54,isobutyl butyrate,4,3
+55,isobutyl butyrate,7,3
+56,naphtalene,2,3
+57,naphtalene,3,3
+58,naphtalene,3,3
+59,naphtalene,4,3
+60,naphtalene,1,3
+61,naphtalene,2,3
+62,naphtalene,3,3
+63,naphtalene,0,3
+64,naphtalene,4,3
+65,naphtalene,2,3
+66,naphtalene,0,3
+67,hexadecane,3,3
+68,hexadecane,2,3
+69,hexadecane,1,3
+70,hexadecane,0,3
+71,hexadecane,1,3
+72,hexadecane,2,3
+73,hexadecane,1,3
+74,hexadecane,4,3
+75,hexadecane,2,3
+76,hexadecane,2,3
+77,hexadecane,1,3
+78,trans-limonene oxide,2,3
+79,trans-limonene oxide,4,3
+80,trans-limonene oxide,2,3
+81,trans-limonene oxide,3,3
+82,trans-limonene oxide,1,3
+83,trans-limonene oxide,0,3
+84,trans-limonene oxide,0,3
+85,trans-limonene oxide,3,3
+86,trans-limonene oxide,3,3
+87,trans-limonene oxide,1,3
+88,trans-limonene oxide,2,3
+89,cis-limonene oxide,1,2
+90,cis-limonene oxide,1,2
+91,cis-limonene oxide,2,2
+92,cis-limonene oxide,1,2
+93,cis-limonene oxide,2,2
+94,cis-limonene oxide,0,2
+95,cis-limonene oxide,0,2
+96,cis-limonene oxide,1,2
+97,cis-limonene oxide,2,2
+98,cis-limonene oxide,2,2
+99,cis-limonene oxide,1,2
+100,beta-mycrene,2,2
+101,beta-mycrene,0,2
+102,beta-mycrene,0,2
+103,beta-mycrene,2,2
+104,beta-mycrene,1,2
+105,beta-mycrene,3,2
+106,beta-mycrene,1,2
+107,beta-mycrene,0,2
+108,beta-mycrene,0,2
+109,beta-mycrene,0,2
+110,beta-mycrene,1,2
+111,chicken,1,3
+112,chicken,2,3
+113,chicken,1,3
+114,chicken,2,3
+115,chicken,0,3
+116,chicken,2,3
+117,chicken,2,3
+118,chicken,0,3
+119,chicken,1,3
+120,chicken,0,3
+121,chicken,0,3

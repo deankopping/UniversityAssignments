@@ -1,0 +1,1 @@
+SELECT round((max(buyPrice))*15/100,2) as biggest FROM products;

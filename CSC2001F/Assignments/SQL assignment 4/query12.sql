@@ -1,0 +1,1 @@
+SELECT customerName, phone FROM customers where customerNumber not in (select customerNumber from payments);

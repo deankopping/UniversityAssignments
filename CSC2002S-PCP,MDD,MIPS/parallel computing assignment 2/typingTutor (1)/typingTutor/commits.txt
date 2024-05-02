@@ -1,0 +1,35 @@
+commit 48830f315c7dba663d05eca3d7b7b0e3e96791cb
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Sun Aug 28 18:47:53 2022 +0200
+
+    hungry words move randomly across screen
+
+commit 95844f78aa40fc94967471f53211ee6a44bece51
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Sun Aug 28 15:30:32 2022 +0200
+
+    Hungry words operationa;
+
+commit c736c6650ee9c20423a10573af91378e5cbb8849
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Sat Aug 27 11:31:01 2022 +0200
+
+    added new files to project
+
+commit abed461b23f15bed9a1cecef7ab411bab82026f3
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Wed Aug 24 18:02:05 2022 +0200
+
+    Hungryword class created
+
+commit def524f6e654de5484d7a688d5eb46b69fd2d4d2
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Wed Aug 24 17:48:09 2022 +0200
+
+    deletes lowest word
+
+commit 741e33cc0a513c24478ad6982aeea775a98223fa
+Author: Dean Kopping <KPPDEA001@myuct.ac.za>
+Date:   Tue Aug 23 21:55:41 2022 +0200
+
+    Classes added to git repository
